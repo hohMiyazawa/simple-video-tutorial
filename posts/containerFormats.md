@@ -1,6 +1,6 @@
 # 1. Container formats
 
-When you're encountering a video file, you're usually not looking direclty at the real thing. Instead, what you have is probably a **container format**.
+When you're encountering a video file, you're usually not looking directly at the real thing. Instead, what you have is probably a **container format**.
 
 - .mkv
 - .webm
@@ -11,7 +11,7 @@ Any of those extensions looking familiar? They are all container formats.
 They consist of "video and other stuff". Actually, many aren't even required to contain video, so the more accurate description is "they contain stuff".
 
 Imagine if you had to press "play" for both a video file and an audio play at the same time in order to watch an episode of something. Not very convenient. Instead, the video and audio are stuffed inside a container so they can be experienced together. Even if they are completely unrelated things.
-Subtitles can be put inside many containers too (even if not all containers want them). Sure more convenient than manually adding a subtitile file every time you want to watch somthing.
+Subtitles can be put inside many containers too (even if not all containers want them). Sure more convenient than manually adding a subtitle file every time you want to watch something.
 
 Containers have rules for what they can contain. If they didn't, you would never be able to be sure that you could play them.
 Matroska (.mkv) allows a whole lot of whacky stuff, so to fully support it, you need a media player than can deal with a wide range of video and audio.
